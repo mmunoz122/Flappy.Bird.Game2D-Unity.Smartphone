@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|c:\\users\\milto\\documents\\github\\flappy.bird.game2d-unity.smartphone\\flappybird\\assets\\scripts\\flappybird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flappybird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|c:\\users\\milto\\documents\\github\\flappy.bird.game2d-unity.smartphone\\flappybird\\assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\assets\\scripts\\pipespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\assets\\scripts\\pipescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\assets\\scripts\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|c:\\users\\milto\\documents\\github\\flappy.bird.game2d-unity.smartphone\\flappybird\\assets\\scripts\\flappybird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flappybird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\assets\\scripts\\pipespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\assets\\scripts\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Score.cs",
               "DocumentMoniker": "C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\Assets\\Scripts\\Score.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Score.cs",
               "ToolTip": "C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\Assets\\Scripts\\Score.cs",
               "RelativeToolTip": "Assets\\Scripts\\Score.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T22:01:01.63Z",
               "EditorCaption": ""
@@ -57,46 +57,46 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T21:35:11.238Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "PipeSpawner.cs",
               "DocumentMoniker": "C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\Assets\\Scripts\\PipeSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PipeSpawner.cs",
               "ToolTip": "C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\Assets\\Scripts\\PipeSpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\PipeSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T20:31:12.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Pipe.cs",
               "DocumentMoniker": "C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\Assets\\Scripts\\Pipe.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pipe.cs",
               "ToolTip": "C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\Assets\\Scripts\\Pipe.cs",
               "RelativeToolTip": "Assets\\Scripts\\Pipe.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAsAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T20:08:47.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "FlappyBird.cs",
               "DocumentMoniker": "C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\Assets\\Scripts\\FlappyBird.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FlappyBird.cs",
               "ToolTip": "C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\Assets\\Scripts\\FlappyBird.cs",
               "RelativeToolTip": "Assets\\Scripts\\FlappyBird.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCMAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAzwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T15:11:26.154Z",
               "EditorCaption": ""
@@ -109,7 +109,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PipeScore.cs",
               "ToolTip": "C:\\Users\\milto\\Documents\\GitHub\\Flappy.Bird.Game2D-Unity.Smartphone\\FlappyBird\\Assets\\Scripts\\PipeScore.cs",
               "RelativeToolTip": "Assets\\Scripts\\PipeScore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T15:08:07.034Z",
               "EditorCaption": ""
